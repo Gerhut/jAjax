@@ -1,0 +1,6 @@
+[submodule "jquery"]
+	path = jquery
+	url = git://github.com/jquery/jquery.git
+[submodule "es6-promise"]
+	path = es6-promise
+	url = git://github.com/jakearchibald/es6-promise.git
