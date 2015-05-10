@@ -1,5 +1,6 @@
 src
 jquery
 es6-promise
+build.js
 bower.json
 .gitmodules
