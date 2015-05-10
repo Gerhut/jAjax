@@ -16,6 +16,9 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "build.js"
+    "build.js",
+    "jquery",
+    "es6-promise",
+    "package.json"
   ]
 }
