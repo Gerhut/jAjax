@@ -1,0 +1,21 @@
+{
+  "name": "jAjax",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Gerhut/jAjax",
+  "authors": [
+    "George Chung <Gerhut@GMail.com>"
+  ],
+  "description": "jQuery.ajax with Promise in ES6 (Polyfill included).",
+  "main": "dist/jAjax.js",
+  "keywords": [
+    "jQuery",
+    "ajax",
+    "Promise"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "build.js"
+  ]
+}

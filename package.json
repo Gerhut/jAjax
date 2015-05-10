@@ -1,0 +1,32 @@
+{
+  "name": "jAjax",
+  "version": "0.0.1",
+  "description": "jQuery.ajax with Promise in ES6 (Polyfill included).",
+  "main": "dist/jAjax.js",
+  "scripts": {
+    "start": "node --harmony build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gerhut/jAjax.git"
+  },
+  "keywords": [
+    "jQuery",
+    "ajax",
+    "Promise"
+  ],
+  "author": "George Chung <Gerhut@GMail.com> (http://gerhut.me)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Gerhut/jAjax/issues"
+  },
+  "homepage": "https://github.com/Gerhut/jAjax",
+  "devDependencies": {
+    "browserify": "10",
+    "uglify-js": "2"
+  },
+  "engines": {
+    "iojs": ">= 1.0.0",
+    "node": ">= 0.12.0"
+  }
+}
