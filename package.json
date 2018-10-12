@@ -23,7 +23,7 @@
   "homepage": "https://github.com/Gerhut/jAjax",
   "devDependencies": {
     "browserify": "10",
-    "uglify-js": "2"
+    "uglify-js": "3"
   },
   "engines": {
     "iojs": ">= 1.0.0",
